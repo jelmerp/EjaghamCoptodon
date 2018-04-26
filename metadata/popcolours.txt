@@ -1,0 +1,51 @@
+species	pop.gphocsfile1	pop.gphocsfile2	pop.short	pop.col	pop.rank	migfrom.type	migto.type	migto.type2	pop.full	remarks
+C_Ej_Cdec	Cdec	D	Dec	turquoise2	2	single	single	single	C. deckerti	
+C_Ej_Ceja	Ceja	E	Eja	blue2	3	single	single	single	C. ejagham	
+C_Ej_Cfus	Cfus	F	Fus	green3	4	single	single	single	C. fusiforme	
+C_ou_Cgui	Cgui	U	Gui	orange2	11	single	single	single	C. guinensis	
+C_ou_Cmam	Cmam	A	Mam	orangered1	12	single	single	single	C. mamfe	
+NA	CmamCgui	AU	AU	purple	13	mult	mult	mult	NA	
+NA	CdecCeja	DE	DE	#0072EE	5	single	single	single	anc: Cdec+Ceja	get.midpoint('turquoise2', 'blue2')
+NA	CdecCejaCfus	DEF	DEF	darkgreen	6	single	single	single	anc: Cdec+Ceja+Cfus	
+NA	CdecCejaCfusCgui	DEFG	DEFG	#D59447	7	single	single	single	anc: Cdec+Ceja+Cfus+Cgui	get.midpoint('orange2', 'rosybrown')
+NA	root	root	root	rosybrown	14	NA	NA	NA	root	
+NA	allMig	allMig	all	red	10	NA	mult	all	all migration bands	
+NA	noMig	noMig	none	grey80	1	none	none	none	no migration	
+NA	curMig	curMig	cur	blue	8	NA	mult	cur	migration to current species	
+NA	ancMig	ancMig	anc	blue	9	NA	mult	and	migration to ancestral populations	
+NA	Cmam2Cdec	A2D	Mam2Dec	NA	NA	single	single	single	NA	
+NA	Cmam2CdecCeja	A2DE	Mam2DE	NA	NA	single	single	single	NA	
+NA	Cmam2CdecCejaCfus	A2DEF	Mam2DEF	NA	NA	single	single	single	NA	
+NA	Cmam2Ceja	A2E	Mam2Eja	NA	NA	single	single	single	NA	
+NA	Cmam2Cfus	A2F	Mam2Fus	NA	NA	single	single	single	NA	
+NA	Cmam2Cgui	A2U	Mam2Gui	NA	NA	single	single	single	NA	
+NA	Cmam2all	A2all	Mam2all	NA	NA	single	mult	all	NA	
+NA	Cmam2anc	A2anc	Mam2anc	NA	NA	single	mult	anc	NA	
+NA	Cmam2cur	A2cur	Mam2cur	NA	NA	single	mult	cur	NA	
+NA	Cgui2Cdec	U2D	Gui2Dec	NA	NA	single	single	single	NA	
+NA	Cgui2CdecCeja	U2DE	Gui2DE	NA	NA	single	single	single	NA	
+NA	Cgui2CdecCejaCfus	U2DEF	Gui2DEF	NA	NA	single	single	single	NA	
+NA	Cgui2Ceja	U2E	Gui2Eja	NA	NA	single	single	single	NA	
+NA	Cgui2Cfus	U2F	Gui2Fus	NA	NA	single	single	single	NA	
+NA	Cgui2Cmam	U2A	Gui2Mam	NA	NA	single	single	single	NA	
+NA	Cgui2all	U2all	Gui2all	NA	NA	single	mult	all	NA	
+NA	Cgui2anc	U2anc	Gui2anc	NA	NA	single	mult	anc	NA	
+NA	Cgui2cur	U2cur	Gui2cur	NA	NA	single	mult	cur	NA	
+NA	Cmam.Cgui2all	AU2all	AU2all	NA	NA	mult	mult	all	NA	
+NA	Cmam.Cgui2anc	AU2anc	AU2anc	NA	NA	mult	mult	anc	NA	
+NA	Cmam.Cgui2cur	AU2cur	AU2cur	NA	NA	mult	mult	cur	NA	
+NA	NA	A2all.A2U	Mam2all	NA	NA	single	mult	all	NA	
+NA	NA	A2all.A2U.U2A	Mam2all	NA	NA	single	mult	all	NA	
+NA	NA	A2all.U2A 	Mam2all	NA	NA	single	mult	all	NA	
+NA	Cdec2Ceja	D2E	Dec2Eja	NA	NA	single	single	single	NA	
+NA	Ceja2Cdec	E2D	Eja2Dec	NA	NA	single	single	single	NA	
+NA	Cdec2Cfus	D2F	Dec2Fus	NA	NA	single	single	single	NA	
+NA	Cfus2Cdec	F2D	Fus2Dec	NA	NA	single	single	single	NA	
+NA	Ceja2Cfus	E2F	Eja2Fus	NA	NA	single	single	single	NA	
+NA	Cfus2Ceja	F2E	Fus2Eja	NA	NA	single	single	single	NA	
+NA	CdecCeja2Cfus	DE2F	DE2Fus	NA	NA	single	single	single	NA	
+NA	Cfus2CdecCeja	F2DE	Fus2DE	NA	NA	single	single	single	NA	
+NA	CmamCgui2CdecCejaCfus	AU2DEF	AU2DEF	NA	NA	single	single	single	NA	
+NA	A2all.U2all.A2U.U2A	A2all.U2all.A2U.U2A	A2all.U2all.A2U.U2A	NA	NA	mult	mult	all	NA	
+NA	A2all.U2all.DE2F	A2all.U2all.DE2F	A2all.U2all.DE2F	NA	NA	mult	mult	all	NA	
+NA	A2anc.U2anc	A2anc.U2anc	A2anc.U2anc	NA	NA	mult	mult	anc	NA

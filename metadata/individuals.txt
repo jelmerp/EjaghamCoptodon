@@ -1,0 +1,16 @@
+ID	genus	species	abbreviation	R1	R2
+Cdec088	Coptodon	deckerti	Cdec	CAM06_S6_L001_R1_001.fastq.gz	CAM06_S6_L001_R2_001.fastq.gz
+Cdec328	Coptodon	deckerti	Cdec	CAM02_S2_L001_R1_001.fastq.gz	CAM02_S2_L001_R2_001.fastq.gz
+Ceja262	Coptodon	ejagham	Ceja	CAM08_S8_L001_R1_001.fastq.gz	CAM08_S8_L001_R2_001.fastq.gz
+Ceja408	Coptodon	ejagham	Ceja	CAM07_S7_L001_R1_001.fastq.gz	CAM07_S7_L001_R2_001.fastq.gz
+Cfus085	Coptodon	fusiforme	Cfus	CAM03_S3_L001_R1_001.fastq.gz	CAM03_S3_L001_R2_001.fastq.gz
+Cfus350	Coptodon	fusiforme	Cfus	CAM05_S5_L001_R1_001.fastq.gz	CAM05_S5_L001_R2_001.fastq.gz
+Cfus503	Coptodon	fusiforme	Cfus	CAM04_S4_L001_R1_001.fastq.gz	CAM04_S4_L001_R2_001.fastq.gz
+Ckot383	Coptodon	kottae	Ckot	CAM10_S10_L001_R1_001.fastq.gz	CAM10_S10_L001_R2_001.fastq.gz
+Ckot499	Coptodon	kottae	Ckot	CAM09_S9_L001_R1_001.fastq.gz	CAM09_S9_L001_R2_001.fastq.gz
+SgalMA1	Coptodon	sp. Mamfe	Cmam	CAM43_S256_L006_R1_001.fastq.gz	CAM43_S256_L006_R2_001.fastq.gz
+TguiMA1	Sarotherodon	galilaeus	Sgal	CAM37_S243_L005_R1_001.fastq.gz	CAM37_S243_L005_R2_001.fastq.gz
+TguiMA2	Sarotherodon	galilaeus	Sgal	CAM44_S257_L006_R1_001.fastq.gz	CAM44_S257_L006_R2_001.fastq.gz
+TguiMA4	Sarotherodon	galilaeus	Sgal	CAM48_S245_L005_R1_001.fastq.gz	CAM48_S245_L005_R2_001.fastq.gz
+TguiNG2	Coptodon	guiniensis	Cgui	CAM28_S23_L007_R1_001.fastq.gz	CAM28_S23_L007_R2_001.fastq.gz
+TguiNG5	Coptodon	guiniensis	Cgui	CAM22_S18_L006_R1_001.fastq.gz	CAM22_S18_L006_R2_001.fastq.gz
