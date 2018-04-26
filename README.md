@@ -11,9 +11,13 @@ admixtools: Genome-wide admixture statistics (D and f4-ratio) using the the Admi
 
 dfoil: Genome-wide admixture statistics using the DFOIL software.
 
+file_conversion: Scripts for conversions between file types, e.g. vcf to fasta.
+
 genotyping: Read mapping and GATK genotyping.
 
 gphocs: Demographic analyses using the G-PhoCS software.
+
+metadata: A couple of small files with metadata that are used in other scripts.
 
 paper: Scripts to produce the Figures, Tables, and statistics that can be found in the paper.
 
